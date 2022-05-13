@@ -12,4 +12,17 @@ h1 {
 
 .top-container {
     background-color: #e4f9f5;
+    padding-top: 100px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 30%;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 30%;
+    top: 150px;
 }
